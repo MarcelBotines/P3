@@ -221,4 +221,4 @@ Una vez conectado se puede revisar los disposotitvos conectados para ver que efe
 También me he conseguido conectar sin la aplicación de Serial Bluetooth Terminal.
 
 ### Descripción:
-Este programa crea una conexion bluetooth en la placa la cual uno se puede connectar. Una vez connectado sale la salida puesta anteriormente, si sale un error saldrá en la salida la frase "Bluetooth is not enabled! Please run `make menuconfig` to and enable it".
+Este programa crea una conexion bluetooth en la placa la cual uno se puede connectar. Una vez connectado sale la salida puesta anteriormente, si sale un error saldrá en la salida la frase "Bluetooth is not enabled! Please run make menuconfig to and enable it".
