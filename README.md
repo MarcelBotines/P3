@@ -217,7 +217,7 @@ void loop() {
 ```
 The device started, now you can pair it with bluetooth!
 ```
-Una vez conectado se puede revisar los disposotitvos conectados para ver que efectivamente si que está conectado por bluetooth.
+Una vez conectado se puede revisar los disposotitvos conectados en el dispositivo que se connecta o en la ESP32 para ver que efectivamente si que está conectado por bluetooth.
 También me he conseguido conectar sin la aplicación de Serial Bluetooth Terminal.
 
 ### Descripción:
